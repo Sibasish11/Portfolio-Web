@@ -72,7 +72,7 @@ Check out some visual highlights of the portfolio:
 ![Portfolio Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/services.png?raw=true)
 
 ### 🛠️ Services Section
-![Services Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/project.png?raw=true)
+![Project Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/project.png?raw=true)
 
 ### 📞 Contact Section
 ![Contact Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/contact.png?raw=true)
