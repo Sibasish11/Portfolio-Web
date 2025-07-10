@@ -66,13 +66,13 @@ Explore my projects, learn about my skills, and feel free to reach out for colla
 Check out some visual highlights of the portfolio:
 
 ### 🏠 Home Section
-![Home Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/project.png?raw=true)
+![Home Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/portfolio.png?raw=true)
 
 ### 💼 Portfolio Section
 ![Portfolio Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/portfolio.png?raw=true)
 
 ### 🛠️ Services Section
-![Services Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/services.png?raw=true)
+![Services Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/project.png?raw=true)
 
 ### 📞 Contact Section
 ![Contact Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/contact.png?raw=true)  
