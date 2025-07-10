@@ -65,14 +65,18 @@ Explore my projects, learn about my skills, and feel free to reach out for colla
 
 Check out some visual highlights of the portfolio:
 
-- **Home Section**: [Screenshot 2025-07-10 125706.png](assets/Screenshot_2025-07-10_125706.png)  
-  - A snapshot of the main page showcasing my core competencies.
-- **Portfolio Section**: [Screenshot 2025-07-10 131330.png](assets/Screenshot_2025-07-10_131330.png)  
-  - Capture the interactive project list in action.
-- **Services Section**: [Add Screenshot Here](assets/your-services-screenshot.png)  
-  - Showcase the services section (add your own file).
-- **Contact Section**: [Add Screenshot Here](assets/your-contact-screenshot.png)  
-  - Show off the contact form (add your own file).
+### 🏠 Home Section
+![Home Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/project.png?raw=true)
+
+### 💼 Portfolio Section
+![Portfolio Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/portfolio.png?raw=true)
+
+### 🛠️ Services Section
+![Services Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/services.png?raw=true)
+
+### 📞 Contact Section
+![Contact Section](https://github.com/Sibasish11/Portfolio-Web/blob/main/assets/contact.png?raw=true)  
+
 
 *Feel free to add more screenshots to the* `screenshots/` *folder and update this section with links!*
 
