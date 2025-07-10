@@ -110,11 +110,11 @@ const Hero = () => {
                     <motion.a variants={followVariants} href="https://www.instagram.com/stfu.sibasish?igsh=eXhiYjIxb255b2pn">
                         <img src="/instagram.png" alt="" />
                     </motion.a>
-                    <motion.a variants={followVariants} href="/">
-                        <img src="/facebook.png" alt="" />
+                    <motion.a variants={followVariants} href="https://www.linkedin.com/in/sibasish11/">
+                        <img src="/linked.png" alt="" />
                     </motion.a>
-                    <motion.a variants={followVariants} href="https://www.youtube.com/@sibasishpadhihari4130">
-                        <img src="/youtube.png" alt="" />
+                    <motion.a variants={followVariants} href="https://github.com/Sibasish11">
+                        <img src="/gitgang.png" alt="" />
                     </motion.a>
                     <motion.div variants={followVariants} className="followTextContainer">
                         <div className="followText">FOLLOW ME</div>
@@ -126,7 +126,7 @@ const Hero = () => {
                 <motion.div animate={{ opacity: [0, 1] }}
                     transition={{ duration: 1 }}
                     className="certificate">
-                    <img src="/certificate.png" alt="" />
+                    <img src="/mcbg.png" alt="" />
                     CERTIFIED AT
                     <br />
                     AI AND MACHINE LEARNING
@@ -135,7 +135,7 @@ const Hero = () => {
                 </motion.div>
                 {/* CONTACT BUTTON */}
                 <motion.a
-                    href="/#contact"
+                    href="https://www.linkedin.com/in/sibasish11/"
                     className="contactLink"
                     animate={{
                         x: [200, 0],

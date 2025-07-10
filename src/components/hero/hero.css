@@ -151,8 +151,10 @@
 }
 
 .certificate img {
-  width: 70px;
-  height: 70px;
+   width: 170px;           /* or whatever size you want */
+  height: auto;
+  display: block;
+  margin: -65px;
 }
 
 .contactLink {

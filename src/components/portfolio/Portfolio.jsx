@@ -14,10 +14,10 @@ const items = [
     },
     {
         id: 2,
-        img: "/memoir.png",
-        title: "Memoir",
-        desc: "Memoir is a web application designed to help users create and manage their personal journals. It offers a user-friendly interface for writing, organizing, and reflecting on daily experiences, thoughts, and memories.",
-        link: "/",
+        img: "/stry.png.png",
+        title: "StoryTelling Web App",
+        desc: "A web application designed to create and interactive stories and is based on concept of Generative AI. It allows users to write, edit, and publish their own stories.",
+        link: "https://stryteller.netlify.app/",
     },
     {
         id: 3,
