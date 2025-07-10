@@ -101,6 +101,7 @@ Let’s build something amazing together! 💡
 
 - Thanks to the open-source community for tools like React, Vite, and Framer Motion.
 - Inspiration from modern portfolio designs and hackathon experiences.
+- Huge shoutout to Lama Dev for his instructions and project.
 
 ---
 
