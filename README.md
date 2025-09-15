@@ -1,10 +1,10 @@
-# *Sibasish's Portfolio Website*👨‍💻🚀
+# *Sibasish's Portfolio Website*👨‍💻
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and passion for software development and AI innovation. Built with cutting-edge technologies, this site is designed to be interactive, visually engaging, and a reflection of my journey as a developer. 🌐✨
+Welcome to my personal portfolio website! This project showcases my skills, projects, and passion for software development and AI innovation. This site is designed to be interactive, visually engaging, and a reflection of my journey as a developer. 
 
-## About Me 🤓
+## About Me :
 
-I’m Sibasish, an AI and software development enthusiast with hands-on experience in modern tools and technologies. With 12+ completed projects 📊 and 6+ certifications 🏅, I specialize in Artificial Intelligence, Machine Learning 🤖, Data Structures, and Optimized Computational Logic 🧮. I thrive under pressure, as demonstrated through my participation in hackathons 💻, and I’m always eager to collaborate on innovative solutions.
+I’m Sibasish, an AI and software development enthusiast with hands-on experience in modern tools and technologies.I specialize in Artificial Intelligence, Machine Learning, Data Structures, and Optimized Computational Logic 🧮. I thrive under pressure, as demonstrated through my participation in hackathons, and I’m always eager to collaborate on innovative solutions.
 
 ## Tech Stack 🛠️🔧
 
@@ -17,7 +17,7 @@ This portfolio is crafted using a robust stack of modern web technologies:
 - **Vite** ⚡ - For fast development and build processes.
 - **ESLint** 🔍 - For maintaining code quality and consistency.
 - **Three.js** 🌌 - (via `@react-three/fiber` and `@react-three/drei`) for 3D visualizations.
-- **EmailJS** 📧 - For seamless contact form integration.
+- **EmailJS** 📧 - For contact form integration.
 
 ## Features 🌟
 
@@ -54,8 +54,6 @@ To run this project locally, follow these steps:
    ```bash
    npm run dev
    ```
-
-Open http://localhost:5173 in your browser to see the site in action! 🌐
 
 ## Usage 🚀
 
@@ -95,22 +93,12 @@ I welcome contributions! If you'd like to enhance this portfolio:
 - **LinkedIn**: www.linkedin.com/in/sibasish11
 - **Email**: sibasishpadhihari@gmail.com
 
-Let’s build something amazing together! 💡
+Let’s build something amazing together! 
 
 ## Acknowledgments 🙌
 
 - Thanks to the open-source community for tools like React, Vite, and Framer Motion.
 - Inspiration from modern portfolio designs and hackathon experiences.
 - Huge shoutout to Lama Dev for his instructions and project.
-
----
-
-### Interactive Poll! 🗳️
-
-What’s your favorite project? Vote below by reacting to this README with:
-
-- 👍 for SIYA AI
-- ❤️ for StoryTelling Web App
-- 🎮 for Player Detection System
 
 Let me know your thoughts in the Issues tab! 😄
